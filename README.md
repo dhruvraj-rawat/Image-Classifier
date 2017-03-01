@@ -2,13 +2,13 @@
 
 # Image-Classifier - Prerequisites
 
-> You need:
+> You need the Following Language and software:
 
 1. Jupyter
 2. Python 3.x
 
  
-The following Python library:
+>Python library required:
 
 1. Numpy
 2. TensorFlow
